@@ -164,9 +164,3 @@ jiva-health/
 - [ ] Notification centre
 - [ ] Dark / light theme toggle
 - [ ] Unit & integration tests (Vitest + Testing Library)
-
----
-
-## License
-
-This project was built as an assignment for **Jiva Health**. All rights reserved.
